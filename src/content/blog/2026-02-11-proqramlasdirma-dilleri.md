@@ -21,7 +21,7 @@ Bu resurs həmin mənzərənin xəritəsidir. Bu sahəyə girməzdən əvvəl ki
 təqdim etməsini arzulayacağınız bir əl kitabçasıdır. Bütün proqram mühəndisləri
 və kompüter elmləri/mühəndisliyi tələbələri bunları yaxşı bilməlidirlər.
 
-## Önsöz
+## Ön söz
 
 Bu resurs proqramlaşdırma haqqında bilən və ən azı bir dildə yaxşı kod yazmağı
 bacaran proqramçılar üçün nəzərdə tutulub. Məsələn, olimpiadaçı məktəblilər,
